@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dependency_inversion" />
+        <module name="interface_segregation" />
+        <module name="liskov_substitution" />
+        <module name="oop" />
+        <module name="openclosedprinciple" />
+        <module name="single_responsibility" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="dependency_inversion" target="8" />
+      <module name="interface_segregation" target="1.7" />
+      <module name="liskov_substitution" target="1.7" />
+      <module name="oop" target="1.7" />
+      <module name="openclosedprinciple" target="1.7" />
+      <module name="single_responsibility" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="dependency_inversion" options="-parameters" />
+      <module name="interface_segregation" options="-parameters" />
+      <module name="liskov_substitution" options="-parameters" />
+      <module name="oop" options="-parameters" />
+      <module name="openclosedprinciple" options="-parameters" />
+      <module name="single_responsibility" options="-parameters" />
+    </option>
+  </component>
+</project>

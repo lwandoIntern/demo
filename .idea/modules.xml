@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" filepath="$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" filepath="$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open-closed principle/openclosedprinciple.iml" filepath="$PROJECT_DIR$/open-closed principle/openclosedprinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_responsibility/single_responsibility.iml" filepath="$PROJECT_DIR$/single_responsibility/single_responsibility.iml" />
+    </modules>
+  </component>
+</project>
